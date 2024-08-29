@@ -5,3 +5,4 @@ LISTA DE TAREAS
 4. clone de ese repositorio en mi compu local
 5. empazar a trabajar, crear achivos y etc..
 6. arreglar cosas rotas en mis archivos
+7. testear git pull
